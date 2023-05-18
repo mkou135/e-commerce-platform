@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "OPPO A76 Smartphone",
+        "description": "A powerful and feature-rich smartphone for all your communication needs.",
+        "price": 499.99,
+        "image": "../images/smartphone/phone1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lenovo IdeaPad Flex 5i Chromebook",
+        "description": "A high-performance laptop with a sleek design and excellent battery life.",
+        "price": 999.99,
+        "image": "../images/laptop/laptop1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ZINGBIRD Wireless Earbuds Bluetooth 5.3 Deep Bass",
+        "description": "Enjoy your favorite music wirelessly with these comfortable and high-quality earphones.",
+        "price": 79.99,
+        "image": "../images/earphones/earphones1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sony BRAVIA 65 Inch X75K 4K Ultra HD HDR LED Smart TV ",
+        "description": "Immerse yourself in stunning visuals and a wide range of entertainment options with this smart TV.",
+        "price": 1499.99,
+        "image": "../images/smarttv/tv1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Nintendo Switch",
+        "description": "Experience the latest gaming titles with incredible graphics and seamless gameplay.",
+        "price": 399.99,
+        "image": "../images/console/console1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "JBL Bluetooth Speaker",
+        "description": "Enjoy your favorite music anytime, anywhere with this portable and powerful Bluetooth speaker.",
+        "price": 89.99,
+        "image": "../images/bluetooth-speaker/speaker1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sony ZV-1 Vlog Camera",
+        "description": "Capture life's precious moments with stunning clarity and professional-level features.",
+        "price": 699.99,
+        "image": "../images/camera/camera1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Fitbit Charge 4 Advanced Fitness Tracker",
+        "description": "Monitor your fitness goals and stay motivated with this advanced fitness tracker.",
+        "price": 129.99,
+        "image": "../images/fitness-tracker/fitbit1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "TP-Link AC1200 Whole-Home Mesh Wi-Fi System",
+        "description": "Experience fast and reliable internet connectivity with this high-performance wireless router.",
+        "price": 79.99,
+        "image": "../images/router/router1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Seagate 2TB Expansion Portable HDD",
+        "description": "Store and backup your important files with ease using this compact and reliable portable hard drive.",
+        "price": 119.99,
+        "image": "../images/harddrive/HDD1.jpg"
+    }
+]
